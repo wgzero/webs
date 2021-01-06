@@ -56,7 +56,7 @@ export default defineComponent({
 
 ### 3.emits用法
 
-```
+```html
 // sonTest.vue
 <template>
   <div class="main" @click="handleCancel">
